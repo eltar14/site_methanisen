@@ -19,10 +19,10 @@ body{
 footer{
     display: flex;
     flex-direction: column;
-    /*align-items: center;*/
-    /*justify-content: center;*/
-    padding-top: 2px;
-    padding-bottom: 2px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
     left: 0;
     bottom: 0;
     width: 100%;
