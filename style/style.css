@@ -516,13 +516,13 @@ footer .subtitle{
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-    background-color: #bbb;
+    background-color: #8ad26c;
     color: black;
 }
 
 /* Style the back side */
 .flip-card-back {
-    background-color: #7ed957;
+    background-color: #8ad26c;
     color: white;
     transform: rotateX(180deg);
 }
