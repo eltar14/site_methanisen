@@ -2,6 +2,10 @@
 
 *{
     font-family: Raleway, sans-serif;
+    text-size-adjust: auto !important;
+}
+.accordion-body{
+    text-size-adjust: auto !important;
 }
 
 
