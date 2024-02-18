@@ -572,3 +572,10 @@ footer .subtitle{
 .uflip{
     padding: 2em;
 }
+
+dt{
+    font-weight: bold;
+}
+dd{
+    margin-bottom: 1em;
+}
