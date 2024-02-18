@@ -488,7 +488,7 @@ footer .subtitle{
 
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
-    margin-bottom: 1em;
+    margin-bottom: 2em;
     background-color: transparent;
     width: 100%;
     height: 300px;
@@ -567,4 +567,8 @@ footer .subtitle{
     margin-top: 4em;
     margin-bottom: 2em;
     aspect-ratio: 16 / 9;
+}
+
+.uflip{
+    padding: 2em;
 }
