@@ -536,11 +536,21 @@ footer .subtitle{
 /* Style the back side */
 .flip-card-back {
     /*background-color: #8ad26c;*/
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
     padding: 2em;
     color: black;
     transform: rotateX(180deg);
 }
 
+.flip-card-back div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
 
 
 .csl-bib-body *{
